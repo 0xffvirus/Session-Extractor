@@ -9,7 +9,7 @@ print(colored("""
     ╚════██║██║██╔═══██╗╚═══██║
     ███████║██║╚██████╔╝█████╔╝
     ╚══════╝╚═╝ ╚═════╝ ╚════╝                
-""", 'red')),print(colored("@366f36", 'red'))
+""", 'red')),print(colored("@1zsb", 'red'))
 
 print("Sessionid Extracter ")
 file = "Sessionids.txt"
